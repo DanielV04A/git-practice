@@ -1,2 +1,1 @@
-# Git Practice
-Practicing branches
+# Git Practice - Version B
